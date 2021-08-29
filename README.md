@@ -12,8 +12,8 @@ For the entire code with model file also available checkout the huggingface repo
 2) run.sh can be used to run the training script and the hyperparameters can be directly specified there<br/>
 3) genius.py contains the file to download songs from genius.com<br/>
 
-#### An example of how demo works <br/>
-
+### An example of how demo works <br/>
+![alt text](https://github.com/AnantShankhdhar/AI-Rap-Lyric-Generator/blob/main/rap-image.png)<br/>
 
 
 
